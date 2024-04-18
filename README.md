@@ -1,1 +1,3 @@
-# diagrammer
+# Diagrammer
+
+Skisser for prosjekter.
